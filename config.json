@@ -1,0 +1,4 @@
+cd ~/utility-browser
+mkdir -p app/src/main/java/com/utility/browser
+mkdir -p app/src/main/res/layout
+mkdir -p app/src/main/res/values
